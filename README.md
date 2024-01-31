@@ -45,3 +45,10 @@ handlers:
 
 https://www.youtube.com/watch?v=pZggyJQKtlM
 
+
+# Added Instructions For DNS Mapping Update
+
+https://cloud.google.com/appengine/docs/legacy/standard/python/mapping-custom-domains
+
+
+
