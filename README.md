@@ -29,6 +29,8 @@ handlers:
   upload: build/(.*\..+)$
 # Catch all handler to index.html
 - url: /.*
+- # Added below line for https (Remove this line if it throws an error)
+  secure: always
   static_files: build/index.html
   upload: build/index.html
 ----------------------------------------------------------
